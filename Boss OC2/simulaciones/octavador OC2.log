@@ -1,6 +1,5 @@
-Circuit: * D:\Proyectos_Programacion\Articulos_Electronicos\Boss OC2\simulaciones\octavador OC2.asc
+Circuit: * D:\Proyectos_Programacion\ArticulosElectronicosPropios\Boss OC2\simulaciones\octavador OC2.asc
 
-Early termination of direct N-R iteration.
 Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
 Starting Gmin stepping
 Gmin = 10
@@ -12,49 +11,31 @@ Gmin = 0.000142725
 Gmin = 1.5325e-05
 Gmin = 1.6455e-06
 Gmin = 1.76685e-07
-vernier = 0.5
-Gmin = 2.96428e-08
-vernier = 0.25
-vernier = 0.125
-vernier = 0.0625
-vernier = 0.0833333
-Gmin = 2.63234e-08
-vernier = 0.111111
-Gmin = 2.05649e-08
-vernier = 0.148148
-vernier = 0.197531
-Gmin = 1.36341e-08
-vernier = 0.263374
-vernier = 0.351165
-Gmin = 7.13685e-09
-vernier = 0.46822
-Gmin = 2.62347e-09
-vernier = 0.624294
-vernier = 0.832392
-Gmin = 5.15888e-10
-vernier = 1
-Gmin = 5.93023e-11
-Gmin = 6.36753e-12
-Gmin = 6.83709e-13
+Gmin = 1.89714e-08
+Gmin = 2.03704e-09
+Gmin = 2.18725e-10
+Gmin = 2.34854e-11
+Gmin = 2.52173e-12
+Gmin = 2.70769e-13
 Gmin = 0
 Gmin stepping succeeded in finding the operating point.
 
 
-Date: Sun May 14 03:44:44 2023
-Total elapsed time: 11.130 seconds.
+Date: Tue May 30 23:49:16 2023
+Total elapsed time: 1.872 seconds.
 
 tnom = 27
 temp = 27
 method = modified trap
-totiter = 102929
-traniter = 101775
-tranpoints = 34759
-accept = 24273
-rejected = 10486
-matrix size = 133
-fillins = 564
+totiter = 56667
+traniter = 56242
+tranpoints = 16715
+accept = 11570
+rejected = 5145
+matrix size = 73
+fillins = 149
 solver = Normal
-Avg thread counts: 3.0/3.0/1.0/1.0
-Matrix Compiler1: 62.99 KB object code size  27.6/24.3/[14.2]
-Matrix Compiler2:    1632 opcodes  5.7/[5.3]/10.2
+Avg thread counts: 1.0/1.0/1.0/1.0
+Matrix Compiler1: 18.79 KB object code size  8.8/8.1/[2.9]
+Matrix Compiler2: off  [2.6]/3.0/8.0
 
