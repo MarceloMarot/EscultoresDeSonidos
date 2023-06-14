@@ -20,6 +20,4 @@ Simulacion principal. Permite ver todas las formas de onda creadas por el dispos
 
 Barrido de frecuencias para ver la respuesta de los filtros
 
-Ambas simulaciones están realizadas con el software LTSpice:
-
-[https://www.analog.com/en/design-center/design-tools-and-calculators/ltspice-simulator.html](https://)
+Ambas simulaciones están realizadas con el software [LTSpice](https://https://www.analog.com/en/design-center/design-tools-and-calculators/ltspice-simulator.html).
